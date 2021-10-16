@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
+import androidx.navigation.Navigation
 import com.example.android.trivia.databinding.FragmentTitleBinding
 
 class TitleFragment : Fragment(R.layout.fragment_title) {
@@ -20,6 +21,9 @@ class TitleFragment : Fragment(R.layout.fragment_title) {
         val binding: FragmentTitleBinding = DataBindingUtil.inflate(
             inflater, R.layout.fragment_title, container, false)
 
+        binding.playButton.setOnClickListener { view: View ->
+            Navigation.findNavController(view).navigate(R.id.action_titleFragment_to_gameFragment)
+        }
 
         return binding.root
     }
