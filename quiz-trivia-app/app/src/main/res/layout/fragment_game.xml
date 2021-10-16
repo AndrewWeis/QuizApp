@@ -6,7 +6,6 @@
     tools:context="com.example.android.trivia.GameFragment">
 
     <data>
-
         <variable
             name="game"
             type="com.example.android.trivia.GameFragment" />
