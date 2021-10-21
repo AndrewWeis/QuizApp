@@ -1,3 +1,18 @@
+<!--
+  ~ Copyright 2018, The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
 <vector android:height="411.3dp" android:viewportHeight="411.3"
     android:viewportWidth="473.8" android:width="473.8dp" xmlns:android="http://schemas.android.com/apk/res/android">
     <path android:fillColor="#6AB343" android:pathData="M353.1,221.9l36.7,-67c2,-3.5 0.7,-8 -2.9,-9.9c-3.6,-1.9 -8,-0.6 -9.9,2.9l-37.1,67.7c-31.2,-13.9 -66.1,-21.7 -103.1,-21.6c-36.8,0 -71.7,7.7 -102.8,21.5l-37.1,-67.6c-1.9,-3.6 -6.4,-4.9 -9.9,-2.9c-3.6,1.9 -4.9,6.4 -2.9,9.9l36.7,67C48.7,259.1 0,330 0,411.3l473.8,0C473.8,330 425.1,259.2 353.1,221.9M129.1,325.5c-10.9,0 -19.8,-8.9 -19.8,-19.8c0,-10.9 8.9,-19.9 19.8,-19.9c11,0 19.9,9 19.9,19.9C149,316.6 140.1,325.5 129.1,325.5M344.8,325.5c-11,0 -19.9,-8.9 -19.9,-19.9c0,-10.9 8.9,-19.9 19.9,-19.9c10.9,0 19.8,9 19.8,19.9C364.7,316.6 355.8,325.5 344.8,325.5"/>
