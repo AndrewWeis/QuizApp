@@ -3,4 +3,4 @@ The Android Trivia application is an application that asks the user trivia quest
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen1.png) ![Screenshot1](screenshots/screen2.png)
+![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png)
